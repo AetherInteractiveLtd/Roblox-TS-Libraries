@@ -1,13 +1,46 @@
 {
-	"devDependencies": {
-		"@rbxts/compiler-types": "^2.1.0-types.1",
-		"@rbxts/types": "^1.0.675",
-		"@typescript-eslint/eslint-plugin": "^5.58.0",
-		"@typescript-eslint/parser": "^5.58.0",
-		"eslint": "^8.38.0",
-		"eslint-config-prettier": "^8.8.0",
-		"eslint-plugin-prettier": "^4.2.1",
-		"eslint-plugin-roblox-ts": "^0.0.35",
-		"prettier": "^2.8.7"
-	}
+  "name": "@rbxts/janitor-aether",
+  "version": "1.15.3",
+  "description": "A port of howmanysmall's janitor module.",
+  "main": "src/init.lua",
+  "types": "index.d.ts",
+  "files": [
+    "index.d.ts",
+    "src/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AetherInteractiveLtd/Roblox-TS-Libraries/tree/temp-upload/janitor"
+  },
+  "keywords": [
+    "janitor",
+    "cleanup",
+    "garbage collection",
+    "validark",
+    "maid",
+    "roblox",
+    "roblox-typescript",
+    "roblox-ts"
+  ],
+  "author": {
+    "name": "howmanysmall",
+    "url": "https://github.com/howmanysmall"
+  },
+  "contributors": [
+    {
+      "name": "OverHash",
+      "url": "https://github.com/OverHash/"
+    }
+  ],
+  "license": "Apache-2.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@rbxts/compiler-types": "^1.1.0-types.0",
+    "@rbxts/types": "^1.0.553"
+  }
 }
