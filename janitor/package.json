@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/OverHash/Roblox-TS-Libraries/tree/master/janitor"
+    "url": "https://github.com/AetherInteractiveLtd/Roblox-TS-Libraries/tree/temp-upload/janitor"
   },
   "keywords": [
     "janitor",
@@ -36,10 +36,6 @@
     }
   ],
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/OverHash/Roblox-TS-Libraries/issues"
-  },
-  "homepage": "https://github.com/OverHash/Roblox-TS-Libraries/blob/master/janitor/README.md",
   "publishConfig": {
     "access": "public"
   },
