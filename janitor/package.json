@@ -1,6 +1,6 @@
 {
-  "name": "@rbxts/janitor",
-  "version": "1.14.1-ts.1",
+  "name": "@rbxts/janitor-aether",
+  "version": "1.15.3",
   "description": "A port of howmanysmall's janitor module.",
   "main": "src/init.lua",
   "types": "index.d.ts",
